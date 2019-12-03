@@ -1,0 +1,77 @@
+[OPTIONS]
+Language=0x407 German
+Default Font=Arial,8,238
+TITLE=BassKing
+Full-text search=Yes
+Display compile notes=YES
+Display compile progress=YES
+Compatibility=1.1
+Auto Index=Yes
+Default Window=Main
+Compiled file=bassking.chm
+Error Log file=bassking.log
+Contents file=bassking.hhc
+Index File=bassking.hhk
+Default Topic=informationen.html
+
+[FILES]
+informationen.html
+gui.html
+search.html
+bassking_sendmessage.html
+bkm_register.html
+bkm_unregister.html
+bkm_end.html
+bkm_show.html
+bkm_hide.html
+bkm_logadd.html
+bkm_logclear.html
+bkm_play.html
+bkm_playfile.html
+bkm_prevtrack.html
+bkm_nexttrack.html
+bkm_pause.html
+bkm_stop.html
+bkm_volume.html
+bkm_speed.html
+bkm_panel.html
+bkm_playlistsel.html
+bkm_medialibsel.html
+bkm_openwindow.html
+bkm_closewindow.html
+bkr_tagfile.html
+bkr_title.html
+bkr_artist.html
+bkr_album.html
+bkr_year.html
+bkr_comment.html
+bkr_track.html
+bkr_genre.html
+bkr_start.html
+bkr_stop.html
+bkr_end.html
+bkr_volume.html
+bkr_preferences.html
+fensterhandle.html
+callback_sampe.html
+geschichte.html
+lizenz.html
+
+
+
+
+[WINDOWS]
+Main="BassKing","bassking.hhc","bassking.hhk","informationen.html","informationen.html",,,,,0x61520,200,0x384e,[50,50,450,450],0x307e,,,,,,0
+Popup="Popup","bassking.hhc","bassking.hhk","informationen.html","informationen.html", ,,,,0x00061520,200, 0x0000384E,[50,50,450,450],0x307e,0x8,,,,,0
+
+
+[MAP]
+#include bassking.h
+
+
+
+[TEXT POPUPS]
+CSHelp.txt
+
+ 
+

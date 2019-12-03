@@ -1,0 +1,59 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling e:\DOCUME~1\PUREBA~1\Source\Projekte\BassKing\Hilfe\bassking_tmphhp\bassking.chm
+
+informationen.html
+gui.html
+search.html
+bassking_sendmessage.html
+bkm_register.html
+bkm_unregister.html
+bkm_end.html
+bkm_show.html
+bkm_hide.html
+bkm_logadd.html
+bkm_logclear.html
+bkm_play.html
+bkm_playfile.html
+bkm_prevtrack.html
+bkm_nexttrack.html
+bkm_pause.html
+bkm_stop.html
+bkm_volume.html
+bkm_speed.html
+bkm_panel.html
+bkm_playlistsel.html
+bkm_medialibsel.html
+bkm_openwindow.html
+bkm_closewindow.html
+bkr_tagfile.html
+bkr_title.html
+bkr_artist.html
+bkr_album.html
+bkr_year.html
+bkr_comment.html
+bkr_track.html
+bkr_genre.html
+bkr_start.html
+bkr_stop.html
+bkr_end.html
+bkr_volume.html
+bkr_preferences.html
+fensterhandle.html
+callback_sampe.html
+geschichte.html
+lizenz.html
+bassking.hhc
+bassking.hhk
+fenster.html
+hm.css
+
+Compile time: 0 minutes, 0 seconds
+44	Topics
+227	Local links
+0	Internet links
+0	Graphics
+
+
+Created e:\DOCUME~1\PUREBA~1\Source\Projekte\BassKing\Hilfe\bassking_tmphhp\bassking.chm, 46,038 bytes
+Compression decreased file by 148,457 bytes.

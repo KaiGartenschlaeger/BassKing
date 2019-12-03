@@ -1,0 +1,22 @@
+BassKing ist Freeware und darf kostenlos genutzt werden.
+Sowohl für Privaten als auch Kommerziellen Zwecken.
+Der Autor übernimmt keine Haftung für Schäden,
+die trotz sorgfältiger Programmierung,
+durch BassKing an ihrem System entstehen könnten,
+sowie keine Garantie auf Funktionalität.
+
+Falls es einen Weg geben sollte,
+über dieser Software Gesetzeswidrige Handlungen durchzuführen,
+so übernimmt der Autor keine Haftung dafür.
+
+Das verteilen von BassKing ist gestattet und sogar erwünscht,
+solange die Nutzung und der Download kostenlos bleiben.
+Alle Rechte bleiben dem Autor vorbehalten.
+
+BassKing darf nicht dekompiliert, disassembliert oder anderweitig
+aus der Maschinencode Form in ein für den Menschen lesbaren Format
+zurückverwandelt oder mit Editoren geöffnet und verändert werden.
+Sämtliche Veränderungen an der Software oder Teilen davon
+sind ohne ausdrücklicher Genehmigung strengstens untersagt.
+
+Mit der Nutzung von BassKing stimmen sie diesen Bedingungen zu.

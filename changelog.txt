@@ -1,0 +1,130 @@
+Version 1.32 (01.05.10)
+[A] Update, Setup wird bei Abbruch nach Desktop kopiert
+[A] Medienbibliothek, zuletzt hinzugefügt
+[C] Wiedergabe bei Datei/Ordner hinzufügen zur WL
+[F] Medienbibliothek, Autocomplete ändert G/K-Schreibung
+[F] Fenstergröße bei aktivierten Tracker bei Start
+
+Version 1.31 (09.12.09)
+[A] Infobereich, Wiedergabe per Drag&Drop
+[F] Log, max. 500 Einträge
+[F] Wiedergabeliste, Absturz im Zufallsmodus
+[F] Programmparameter mit Leerzeichen
+
+Version 1.30 (01.12.09)
+[A] Medienbibliothek, Suchmodus OR
+[A] Medienbibliothek, Sucheinstellungen Länge
+[A] Medienbibliothek, Bewertung
+[A] Medienbibliothek, Speichern als Wiedergabeliste
+[A] Medienbibliothek, Suchverlauf
+[A] Medienbibliothek, Alles Auswählen (Kontextmenü)
+[A] Einstellungen, Explizites FadeOut für Beenden
+[A] Einstellungen, Letzte Wiedergabe fortsetzen
+[A] Einstellungen, Fonts
+[A] Spaltenbreiten festlegbar, Optimale Breite
+[A] Wiedergabelisten Formate M3U8, SXPF
+[A] Effekte, Auf Standard Zurücksetzen
+[A] Feedback Fenster
+[A] Hilfedatei (Alphaversion !)
+[C] Medienbibliothek, Wiedergabelisten optimiert
+[C] Einstellungen, Farbthemen Speichern
+[C] Updatefunktion überarbeitet, Download u. Installation
+[C] TagLib Version 1.5 -> TagLib Version 1.6
+
+Version 1.29 (25.10.09)
+[A] Einstellungen/Backup
+[C] Einstellungen Fenster
+[C] Extrafenster für Statistiken
+
+Version 1.28 (22.10.09)
+[F] Shortcuts Auswahl
+
+Version 1.27 (18.10.09)
+[A] Einstellungen/Statistiken erweitert
+[C] Medienbibliothek Scanvorgang verbessert
+[F] Statistiken Reset und Wiedergabe/Tag
+[F] CPU Schonender Scanvorgang
+
+Version 1.26 (16.10.09)
+[A] Erweiterte Suche, Medienbibliothek
+[A] Mehrere Stammordner, Medienbibliothek
+
+Version 1.24 (03.10.09)
+[A] Color Themen
+[A] Medienbibliothek Wiedergabelisten
+[C] Standardfarben Farbauswahl Oberfläche
+[F] Menüereignisse Medienbibliothek
+
+Version 1.22 (26.09.09)
+[A] Einfügen in Wiedergabeliste
+[A] Program parameter *.m3u/*.pls
+
+Version 1.21 (22.09.09)
+[F] Wiedergabelisten Generator
+
+Version 1.20 (21.09.09)
+[A] Album wählbar
+
+Version 1.19 (19.09.09)
+[A] Dateityp Verknüpfungen
+
+Version 1.17 (14.09.09)
+[A] Medienbibliothek 'Mehr von'
+
+Version 1.16 (12.09.09)
+[A] Windows Live Messenger Status text
+[A] Plug-In Support erweitert
+
+Version 1.15 (11.09.09)
+[A] Midi Lyrics
+
+Version 1.14 (10.09.09)
+[A] Spektrum-Farbe separat
+[C] Ausgabeformat für HTML Wiedergabeliste
+[C] Plug-Ins können automatisch gestartet werden
+
+Version 1.13 (06.09.09)
+[A] Radio Log Speichern / Leeren
+[A] Log Speichern / Leeren
+[A] Tooltipps, Wiedergabeliste / Medienbibliothek
+[A] Log deaktivieren
+[A] Log bei Programmende speichern 'Log.txt'
+
+Version 1.12 (05.09.09)
+[A] Vorschaumodus
+[F] ToolTipps bei Albumliste
+
+Version 1.11 (04.09.09)
+[A] Position Speichern/Öffnen
+[F] Wiedergabeliste Erstellen, Fortschritte
+
+Version 1.10 (13.07.09)
+[A] Tastenkombination Suchen
+[F] Shortcuts, direkte Anzeige
+
+Version 1.08 (12.07.09)
+[A] Radio Log, Download-Menge
+[A] Timeout und Proxy server
+
+Version 1.07 (11.07.09)
+[C] Fade In / Out unabhängig festlegbar
+[F] Menü item Sortieren/Typ
+
+Version 1.06 (10.07.09)
+[A] System Lautstärke
+[A] Effekt Reverb
+[A] Effekt Echo
+[A] Effekt Flanger
+[C] Equalizer Fenster
+[C] Hauptfenster, Statusleiste
+[F] Medienbibliothek, hinzufügen zur Wiedergabeliste
+
+Version 1.05 (07.07.09)
+[A] Wiedergabeliste, Sortieren per Headerklick
+[A] Wiedergabeliste, Sortieren nach Typ
+
+Legende
+[A] Hinzugefügt
+[R] Entfernt
+[C] Änderung
+[F] Fehlerkorrektur

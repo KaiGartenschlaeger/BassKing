@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.10 Beta 1 (Windows - x86)">
+  <section name="config">
+    <options closefiles="1" openmode="2" name="BassKing"/>
+    <comment>
+      BassKing Audio Player
+    </comment>
+  </section>
+  <section name="data">
+    <explorer view="Include\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2012-12-23 02:59" user="Kai" host="KAI-PC"/>
+  </section>
+  <section name="files">
+    <file name="Include\bass.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="7f05f86813aadf5c18ed6f39a5434fa1"/>
+    </file>
+    <file name="Include\bass_aac.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="fa84114404518f69354eb76f2ec8658c"/>
+    </file>
+    <file name="Include\bass_cd.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="0a3fd327daacf5963a6503c607b3fcb7"/>
+    </file>
+    <file name="Include\bass_enc.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="29e349b32221f3de4895b061123f77d6"/>
+    </file>
+    <file name="Include\bass_flac.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="c34223ce4b3f21b2f27ce23aab9ee098"/>
+    </file>
+    <file name="Include\bass_fx.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="dc2c3b84e5ecc812490267a053922ca4"/>
+    </file>
+    <file name="Include\bass_midi.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="ec0d049b0871e95e5643b36e49fb9326"/>
+    </file>
+    <file name="Include\bass_mix.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="e34c7cf556ff10ccc625753a5b5663ce"/>
+    </file>
+    <file name="Include\bass_tags.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="df9adf719e1fe1655f8dfd7f148d65ae"/>
+    </file>
+    <file name="Include\bass_wma.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="7717b6c208b4e7c179a2a89c149d6258"/>
+    </file>
+    <file name="Include\bass_wv.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="54994780534b27d7861b7b320dd5b028"/>
+    </file>
+    <file name="Include\onerror.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="12fa88305e846f51aca94575086503cb"/>
+    </file>
+    <file name="Include\procedures.pbi">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="bce8cd10ea03b93436b48fb38472add1"/>
+    </file>
+    <file name="Include\proc_misc.pbi">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="b55ecedb52e3c2bc1fd58cf3ec6f6b19"/>
+    </file>
+    <file name="Include\ressource.pbi">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="a57625da854a7f5872721e02fe4eb09b"/>
+    </file>
+    <file name="Include\start_check.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="f1391ad9c770cfd529abbff958853b18"/>
+    </file>
+    <file name="Include\taglib.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="4c83f43dfba2c18a8204f977593c28d6"/>
+    </file>
+    <file name="Include\window.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="d977dacd4afecab0cdb25e802679fe0a"/>
+    </file>
+    <file name="Include\windowex.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="6bfe8d4726989055758ee314c92fdc4b"/>
+    </file>
+    <file name="Include\windows.pbi">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="491dd6729a5dadd4564da9e2dd6195f5"/>
+    </file>
+    <file name="Include\winloop.pbi">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="89af5f82462188f410e41f9e7e442e8d"/>
+    </file>
+    <file name="main.pb">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="73c50938cff2f15f50e6cdfdbcd528c7"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="BassKing" enabled="1" default="1">
+      <inputfile value="Main.pb"/>
+      <outputfile value="BassKing.exe"/>
+      <executable value="BassKing.exe"/>
+      <options thread="1" xpskin="1" onerror="1" debug="1"/>
+      <temporaryexe value="source"/>
+      <icon enable="1">
+        Ressource\icon.ico
+      </icon>
+      <format exe="default" cpu="1"/>
+      <compilecount enable="1" value="9136"/>
+      <buildcount enable="1" value="2075"/>
+      <execonstant enable="1"/>
+      <versioninfo enable="1">
+        <field0 value="1,3,2,0"/>
+        <field1 value="2,0,0,0"/>
+        <field2 value="Privat"/>
+        <field3 value="BassKing"/>
+        <field4 value="1.32"/>
+        <field5 value="1.32"/>
+        <field6 value="Bass Audio-Player"/>
+        <field7 value="BassKing"/>
+        <field8 value="BassKing.exe"/>
+        <field9 value="Kai Gartenschläger, 2009"/>
+        <field10 value="Kai Gartenschläger, 2009"/>
+        <field11 value="Kai Gartenschläger, 2009"/>
+        <field13 value="angel-kai@hotmail.de"/>
+        <field14 value="http://www.kaisnet.de"/>
+        <field15 value="VOS_NT_WINDOWS32"/>
+        <field16 value="VFT_APP"/>
+        <field17 value="0407 German (Standard)"/>
+      </versioninfo>
+      <resources>
+        <resource value="Ressource\ressource.rc"/>
+      </resources>
+      <constants>
+        <constant value="#PrgVers = 132" enable="1"/>
+      </constants>
+      <watchlist>
+        CurrPlay\channel[0];CurrPlay\channel[1];CurrPlay\curr;CurrPlay\file;CurrPlay\playtype;CurrPlay\plindex;CurrPlay\pos;CurrPlay\tag\album;CurrPlay\tag\artist;CurrPlay\tag\cType;CurrPlay\tag\length;CurrPlay\tag\samplerate;CurrPlay\tag\title;CurrPlay\volume[0];CurrPlay\volume[1]
+      </watchlist>
+    </target>
+  </section>
+</project>
